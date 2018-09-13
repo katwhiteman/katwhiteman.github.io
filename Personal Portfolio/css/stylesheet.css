@@ -1,0 +1,17 @@
+body {
+	background: #848484;
+}
+
+nav {
+	font-family: "helvetica", arial;
+	padding: 5px;
+}
+
+jumbotron {
+	color: #000;
+}
+
+container-fluid {
+	color: #000;
+	background-color: #d3d3d3;
+}
