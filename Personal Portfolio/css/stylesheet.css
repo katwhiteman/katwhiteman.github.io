@@ -1,5 +1,5 @@
 body {
-	background: #848484;
+	background: #fff;
 }
 
 nav {
@@ -7,11 +7,15 @@ nav {
 	padding: 5px;
 }
 
-jumbotron {
-	color: #000;
-}
-
-container-fluid {
+.container-fluid {
 	color: #000;
 	background-color: #d3d3d3;
+}
+
+#picture {
+	border-radius: 10%;
+	border-color: #000;
+	margin-top: 55px;
+	margin-left: 300px;
+	margin-right: 75px;
 }
