@@ -10,6 +10,7 @@ nav {
 .container-fluid {
 	color: #000;
 	background-color: #d3d3d3;
+	padding: 30px;
 }
 
 #picture {
