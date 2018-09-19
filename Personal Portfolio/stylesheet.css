@@ -1,0 +1,22 @@
+body {
+	background: #fff;
+}
+
+nav {
+	font-family: "helvetica", arial;
+	padding: 5px;
+}
+
+.container-fluid {
+	color: #000;
+	background-color: #d3d3d3;
+	padding: 30px;
+}
+
+#picture {
+	border-radius: 10%;
+	border-color: #000;
+	margin-top: 55px;
+	margin-left: 300px;
+	margin-right: 75px;
+}
