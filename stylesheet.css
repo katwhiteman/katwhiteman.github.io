@@ -24,7 +24,7 @@ nav {
 #picture {
 	border-radius: 10%;
 	border-color: #000;
-	margin-left: 10%;
+	/* margin-left: 10%; */
 	width: 18.75%;
 	height: 25%;
 }
