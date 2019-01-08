@@ -40,3 +40,8 @@ nav {
 	height: 30%;
 	margin-left: 10%;
 }
+
+#footer {
+	background-color: #343a40;
+	text-align: center;
+}
