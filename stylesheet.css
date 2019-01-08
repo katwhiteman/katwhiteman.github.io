@@ -29,8 +29,8 @@ nav {
 	height: 50%;
 }
 
-/* //Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) { 
+/* //Small devices (landscape phones, 600px and up) */
+@media only screen and (max-width: 600px) { 
 	#picture {
 		border-radius: 10%;
 		border-color: #000;
@@ -41,7 +41,7 @@ nav {
 }
 
 /* //Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) { 
+@media only screen and (max-width: 768px) { 
 	#picture {
 		border-radius: 10%;
 		border-color: #000;
@@ -52,7 +52,7 @@ nav {
 }
 
 /* //Large devices (desktops, 992px and up) */
-@media (min-width: 992px) { 
+@media only screen and (min-width: 992px) { 
 	#picture {
 		border-radius: 10%;
 		border-color: #000;
