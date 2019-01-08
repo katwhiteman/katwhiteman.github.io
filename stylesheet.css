@@ -24,7 +24,7 @@ nav {
 	border-radius:10%;
 	border-color: #000;
 	margin: auto;
-	/* margin-left: 20%; */
+	margin-right: 10%;
 	width:30%;
 	height: 30%;
 }
@@ -34,7 +34,7 @@ nav {
 	border-color: #000;
 	width: 30%;
 	height: 30%;
-	/* margin-left: 20%; */
+	margin-left: 10%;
 }
 
 /* //Small devices (landscape phones, 600px and up) */
