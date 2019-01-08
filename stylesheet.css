@@ -16,6 +16,11 @@ nav {
 	font-family: "palatino", "georgia", arial;
 }
 
+a { 
+    color:#ffffff;
+    text-decoration:none;
+}
+
 .container-fluid {
 	color: #343a40;
 	font-family: "palatino", "georgia", arial;
