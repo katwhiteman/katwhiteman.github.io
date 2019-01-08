@@ -21,3 +21,12 @@ nav {
 	margin-left: 300px;
 	margin-right: 40px;
 }
+
+#family {
+	border-radius:10%;
+	border-color: #000;
+	margin: auto;
+	padding: auto;
+	width:50%;
+	height: 50%;
+}
