@@ -22,6 +22,8 @@ nav {
 	background-color: #28a745;
 	padding: 30px;
 	width: 90%;
+	border-top: #343a40;
+	border-bottom: #343a40;
 }
 
 #family {
