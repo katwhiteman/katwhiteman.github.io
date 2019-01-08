@@ -1,5 +1,5 @@
 body {
-	background: #2F4F4F;
+	background: #343a40;
 }
 
 nav {
@@ -9,7 +9,7 @@ nav {
 
 .container-fluid {
 	color: #000;
-	background-color: #2F4F4F;
+	background-color: #343a40;
 	padding: 30px;
 	width: 90%;
 }
