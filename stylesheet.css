@@ -17,9 +17,9 @@ nav {
 }
 
 .container-fluid {
-	color: #000;
+	color: #343a40;
 	font-family: "palatino", "georgia", arial;
-	background-color: #d3d3d3;
+	background-color: #28a745;
 	padding: 30px;
 	width: 90%;
 }
