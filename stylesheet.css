@@ -52,7 +52,7 @@ nav {
 }
 
 /* //Large devices (desktops, 992px and up) */
-@media only screen and (min-width: 992px) { 
+@media only screen and (max-width: 992px) { 
 	#picture {
 		border-radius: 10%;
 		border-color: #000;
@@ -63,7 +63,7 @@ nav {
 }
 
 /* // Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
+@media (max-width: 1200px) {
 	#picture {
 		border-radius: 10%;
 		border-color: #000;
