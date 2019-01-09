@@ -16,20 +16,15 @@ nav {
 	font-family: "palatino", "georgia", arial;
 }
 
-a { 
-    color:#ffffff;
-    text-decoration:none;
-}
-
 .container-fluid {
 	color: #343a40;
 	font-family: "palatino", "georgia", arial;
 	background-color: #28a745;
 	padding: 30px;
 	width: 90%;
-	border: 1px;
+	/* border: 1px;
 	border-top-color: #343a40;
-	border-bottom-color: #343a40;
+	border-bottom-color: #343a40; */
 }
 
 #family {
